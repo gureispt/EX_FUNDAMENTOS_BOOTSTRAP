@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    padding-bottom: 35px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 20px 10px;
+    background-color: rgb(175, 175, 175);
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.formulario label{
+    cursor: pointer;
+}
+
+.btn-button{
+    margin-left: 130px;
+}
+.formulario button{
+    width: 30%;
+}
